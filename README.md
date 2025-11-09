@@ -46,6 +46,6 @@ Both methods produced the same final summary, validating the accuracy of the log
 | Category | Count |
 | :--- | :--- |
 | Total Records Processed | 10000 |
-| Total Valid PANs | 3186 |
-| Total Invalid PANs | 5840 |
-| Total Missing/Incomplete | 974 |
+| Total Valid PANs | 3193 |
+| Total Invalid PANs | 5832 |
+| Total Missing/Incomplete | 975 |
