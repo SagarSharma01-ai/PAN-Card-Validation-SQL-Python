@@ -31,7 +31,7 @@ To showcase versatility, the validation was performed in two separate environmen
     * Generated a final summary report using `COUNT(*)` and `CASE` statements.
 
 ### 2. Python Approach
-* **File:** [PAN_Number_Validation(by me).ipynb](PAN_Number_Validation(by me).ipynb)
+* **File:** [PAN_Number_Validation(by me).ipynb](PAN_Validation_by_me.ipynb)
 * **Process:**
     * Cleaned the data using **Pandas** (`.str.strip()`, `.str.upper()`, `.drop_duplicates()`, `.dropna()`).
     * Used the **`re` (RegEx)** library to validate the `AAAAA1234A` format.
